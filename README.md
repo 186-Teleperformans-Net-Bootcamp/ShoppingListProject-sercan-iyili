@@ -131,7 +131,7 @@ Projeyi build ederek gerekli veritabanları aşağıdaki komut ile oluşturulabi
 
 - Tamamlanan liste Rabbitmq'da kuyruğa ekleniyor
 
-<img src="https://github.com/186-Teleperformans-Net-Bootcamp/ShoppingListProject-sercan-iyili/blob/main/Teleperformance.ShoppingList/images/IsComplete.png" />
+<img src="https://github.com/186-Teleperformans-Net-Bootcamp/ShoppingListProject-sercan-iyili/blob/main/Teleperformance.ShoppingList/images/Rabbitmq.png" />
 
 
 - Tamamlanan listeler WorkerService üzerinden Rabbitmq'ya orayadan MongoDb'ye kayıt ediliyor
